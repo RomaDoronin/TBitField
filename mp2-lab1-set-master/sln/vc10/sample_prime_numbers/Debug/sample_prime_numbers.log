@@ -1,0 +1,15 @@
+﻿Построение начато 21.12.2015 21:00:59.
+     1>Проект "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" в узле 2 (целевые объекты build).
+       Файл проекта содержит ToolsVersion="12.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Проект "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" (1) выполняет построение "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (2) в узле 2 (целевые объекты GetTargetPath).
+       Файл проекта содержит ToolsVersion="12.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Построение проекта "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" завершено (целевые объекты GetTargetPath) с ошибкой.
+     1>Проект "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" (1) выполняет построение "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" (2:2) в узле 2 (целевые объекты GetNativeManifest).
+       Файл проекта содержит ToolsVersion="12.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     2>Построение проекта "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\bitfield\bitfield.vcxproj" завершено (целевые объекты GetNativeManifest) с ошибкой.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(518,5): error MSB8008: указанный набор инструментов платформы (v120) не установлен или недопустим. Убедитесь, что выбрано поддерживаемое значение PlatformToolset.
+     1>Построение проекта "C:\Users\Roma\Downloads\mp2-lab1-set-master (2)\mp2-lab1-set-master\sln\vc10\sample_prime_numbers\sample_prime_numbers.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.05
